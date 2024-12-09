@@ -18,4 +18,4 @@
 #
 #
 ## Proposal: https://jolly-wave-09fc52810.5.azurestaticapps.net/
-# I did not deliver on a lot of what I said I would on the proposal, but I did make a really solid attempt at it. I specifically implemented WebSocket, GraphQL, React, and GitHub integration. The WebSocket aspects to not fully work as intended, but it is pretty close to completion. I also included an easy-to-understand system for starting the game.
+# I did not deliver on a lot of what I said I would on the proposal, but I did make a really solid attempt at it. I specifically implemented WebSocket, GraphQL, React, and GitHub integration. The WebSocket aspects do not fully work as intended, but it is really close to completion. I also included an easy-to-understand system for starting the game.
